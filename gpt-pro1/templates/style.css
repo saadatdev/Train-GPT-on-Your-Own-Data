@@ -1,0 +1,12 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+.main{
+    width: 80%;
+    height: 80%;
+    border: 1px solid grey;
+    background-color: bisque;
+    text-align: center;
+}
